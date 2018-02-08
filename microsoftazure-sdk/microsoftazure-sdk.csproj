@@ -7,7 +7,7 @@
     <ProjectGuid>{FC742A8C-4C0E-4EB4-AD9F-30D8CA0DC135}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>microsoftazure_sdk</RootNamespace>
-    <AssemblyName>microsoftazure_sdk</AssemblyName>
+    <AssemblyName>microsoftazure-sdk</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
